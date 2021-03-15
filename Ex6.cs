@@ -22,7 +22,7 @@ namespace ListadeExercícios08_03_2021
             }
             else
             {
-                total = (1500 + (1500 / 100) * 3) + (vendas - 1500) / 100 * 5;
+                total = (1500 + (1500 / 100) * 3) + ((vendas - 1500) + (vendas - 1500) / 100 * 5);
             }
 
             Console.WriteLine("Salário total é:" + total);
