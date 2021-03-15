@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\ListadeExercícios08-03-2021\ListadeExercícios08-03-2021\obj\Debug\ListadeExercícios08-03-2021.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\ListadeExercícios08-03-2021\ListadeExercícios08-03-2021\obj\Debug\ListadeExercícios08-03-2021.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\ListadeExercícios08-03-2021\ListadeExercícios08-03-2021\bin\Debug\ListadeExercícios08-03-2021.exe.config
+C:\Users\Denis\source\repos\ListadeExercícios08-03-2021\ListadeExercícios08-03-2021\bin\Debug\ListadeExercícios08-03-2021.exe
+C:\Users\Denis\source\repos\ListadeExercícios08-03-2021\ListadeExercícios08-03-2021\bin\Debug\ListadeExercícios08-03-2021.pdb
+C:\Users\Denis\source\repos\ListadeExercícios08-03-2021\ListadeExercícios08-03-2021\obj\Debug\ListadeExercícios08-03-2021.exe
+C:\Users\Denis\source\repos\ListadeExercícios08-03-2021\ListadeExercícios08-03-2021\obj\Debug\ListadeExercícios08-03-2021.pdb
